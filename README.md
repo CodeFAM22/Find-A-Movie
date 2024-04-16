@@ -7,7 +7,7 @@ Submitted by:
 - **Anas Aly**
 - **Prachit Mahlgi**
 
-Time spent: **4** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Summary
 
@@ -25,17 +25,17 @@ The following REQUIRED features are completed:
 The following REQUIRED files are included:
 
 - [x] Included 📄 `brainstorming.md`, which contains:
-    - [ ] Our initial brainstorming ideas (6+ ideas)
-    - [ ] 5-category evaluation of our top 3 ideas
-    - [ ] Final app idea chosen
+    - [X] Our initial brainstorming ideas (6+ ideas)
+    - [X] 5-category evaluation of our top 3 ideas
+    - [X] Final app idea chosen
 - [x] Included 📄 `project_spec.md`, which contains:
-    - [ ] App Overview: Description and evaluation
-    - [ ] App Spec: User features, Chosen API(s), User Interactions
-    - [ ] Wireframe image(s)
+    - [X] App Overview: Description and evaluation
+    - [X] App Spec: User features, Chosen API(s), User Interactions
+    - [X] Wireframe image(s)
 
 The following BONUS features are implemented:
 
-- [ ] Added digital wireframe/mockup image(s)
+- [X] Added digital wireframe/mockup image(s)
 - [ ] Added a Video/GIF of an interactive prototype
 
 The following EXTRA features are implemented:
@@ -44,4 +44,4 @@ The following EXTRA features are implemented:
 
 ## Notes
 
-Here's a place for any other notes on this milestone!
+During the 1st Milestone of the Find-A-Movie project, our primary focus was on ideation and idea evaluation. We engaged in thorough brainstorming sessions to explore various app concepts, followed by a rigorous evaluation process to identify the most promising idea. Additionally, we dedicated time to creating initial prototypes, refining our understanding of user interface design and app navigation.
