@@ -61,8 +61,10 @@ Required Feature
 </div>
 
 ### [BONUS] Digital Wireframes & Mockups
+<div style="display: flex; justify-content: center;">
 <img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/Digital_Prototype.png" width=300 height=550>
-
+<img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/Digital_Prototype_2.png" width=300 height=550>
+</div>
 ### [BONUS] Interactive Prototype
 
 ## Build Notes
