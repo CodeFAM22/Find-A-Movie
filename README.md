@@ -24,11 +24,11 @@ The following REQUIRED features are completed:
 
 The following REQUIRED files are included:
 
-- [x] Included 📄 `brainstorming.md`, which contains:
+- [x] Included 📄 [`brainstorming.md`](https://github.com/CodeFAM22/Find-A-Movie/blob/main/brainstorming.md), which contains:
     - [X] Our initial brainstorming ideas (6+ ideas)
     - [X] 5-category evaluation of our top 3 ideas
     - [X] Final app idea chosen
-- [x] Included 📄 `project_spec.md`, which contains:
+- [x] Included 📄 [`project_spec.md`](https://github.com/CodeFAM22/Find-A-Movie/blob/main/project_spec.md), which contains:
     - [X] App Overview: Description and evaluation
     - [X] App Spec: User features, Chosen API(s), User Interactions
     - [X] Wireframe image(s)
