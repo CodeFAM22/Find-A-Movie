@@ -55,14 +55,15 @@ Required Feature
   - => **Play the trailer for the selected movie within the app**
 
 ## Wireframes
-
-<!-- Add picture of your hand sketched wireframes in this section -->
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/prototype_1.jpg" width=300 height=550>
+    <img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/prototype_2.jpg" width=300 height=550>
+</div>
 
 ### [BONUS] Digital Wireframes & Mockups
+<img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/Digital_Prototype.png" width=300 height=550>
 
 ### [BONUS] Interactive Prototype
-
 
 ## Build Notes
 
