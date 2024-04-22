@@ -26,7 +26,7 @@ class MovieDetailActivity : AppCompatActivity() {
 
 
     fun onBackButtonClick(view: View) {
-        finish() // Navigate back to the previous activity
+        finish()
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -78,23 +78,18 @@ class MovieDetailActivity : AppCompatActivity() {
                                 genreNames.append(", ")
                             }
                             genreNames.append(genreName)
-
                             fetchedGenres++
-
                             if (fetchedGenres == movieGenreIDs.length()) {
-                                // All genre names fetched, set the text of the genre_IDs TextView
                                 runOnUiThread {
-                                    movie_GenreIDs.text = "Genre IDs: ${genreNames.toString()}"
+                                    movie_GenreIDs.text = "${genreNames.toString()}"
                                 }
                             }
                         }
                     }
-
                     movieName.text = movieTitle
                     movieDesc.text = movieOverview
                     movie_ReleaseDate.text = "Release Date: $movieReleaseDate"
                     movie_OriginalLanguage.text = "Original Language: $movieOriginalLanguage"
-//                    movie_GenreIDs.text = "Genres: ${genreNames.toString()}"
                     Glide.with(this@MovieDetailActivity)
                         .load("https://image.tmdb.org/t/p/original$moviePosterPath")
                         .apply(RequestOptions().placeholder(R.drawable.placeholder_image))
@@ -111,15 +106,13 @@ class MovieDetailActivity : AppCompatActivity() {
                 errorResponse: String,
                 throwable: Throwable?
             ) {
-                Log.e("ERROR", "ERROR")            }
+                Log.e("ERROR", "Error fetching movie details from API")            }
         }]
     }
 
     private fun getGenreName(genreID: Int, callback: (String) -> Unit) {
         val apiKey = "017b97b7179fec2b73979d58f5d79972"
         val client = AsyncHttpClient()
-
-        // URL to fetch the list of movie genres
         val genreListUrl = "https://api.themoviedb.org/3/genre/movie/list?api_key=$apiKey"
 
         client.get(genreListUrl, object : JsonHttpResponseHandler() {
