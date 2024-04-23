@@ -18,8 +18,6 @@ If we had to describe this milestone in 3 emojis, they would be: **🥇 💻 �
 
 ## Milestone Requirements
 
-<!-- Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
-
 The following REQUIRED features are completed:
 
 - [X] Assign features to each member of your group
@@ -44,9 +42,9 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/Ol7U1Fb.gif' title='Video Demo' width='' alt='Video Demo' />
 
-VIDEO created with **your chosen video tool**
+VIDEO created with **Lice CAP**
 
 ## Notes
 
