@@ -81,6 +81,7 @@ For Milestone 2, include **2+ Videos/GIFs** of the build process here!
   <img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/Demo/Demo_2.gif" width=300 height=550>
   <img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/Demo/Demo_3.gif" width=300 height=550>
 </div>
+
 ## License
 
 Copyright **2024** **CodeFAM**
