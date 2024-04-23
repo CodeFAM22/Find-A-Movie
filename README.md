@@ -31,20 +31,17 @@ The following REQUIRED files are included:
   - [X] Checked off 2+ completed features
   - [X] 2+ Videos/GIFs of build progress
 
-- [ ] Our 🎥 Demo Video
-  - [ ] We have also added the Demo Video Link to the Group Info Form on the course portal.
+- [X] Our 🎥 Demo Video
+  - X ] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
-The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve your submission!
+## 🎥 Demo Video and Presentation
 
-## 🎥 Demo Video
+Here's the link to powerpoint presentation: https://docs.google.com/presentation/d/1dP94d0Yk-tsh6IkuiVAgcmPD016YrGoWmWnqIMl2yBs/edit?usp=sharing
 
-Here's a video that demos all of the app's implemented features:
+Here's a video that demos all of the app's implemented features: https://i.imgur.com/Ol7U1Fb.gif
 
 <img src='https://i.imgur.com/Ol7U1Fb.gif' title='Video Demo' width='' alt='Video Demo' />
-
-https://i.imgur.com/Ol7U1Fb.gif
 
 VIDEO created with **Lice CAP**
 
