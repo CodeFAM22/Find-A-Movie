@@ -32,7 +32,7 @@ The following REQUIRED files are included:
   - [X] 2+ Videos/GIFs of build progress
 
 - [X] Our 🎥 Demo Video
-  - X ] We have also added the Demo Video Link to the Group Info Form on the course portal.
+  - [X] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
 
 ## 🎥 Demo Video and Presentation
