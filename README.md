@@ -44,6 +44,8 @@ Here's a video that demos all of the app's implemented features:
 
 <img src='https://i.imgur.com/Ol7U1Fb.gif' title='Video Demo' width='' alt='Video Demo' />
 
+https://i.imgur.com/Ol7U1Fb.gif
+
 VIDEO created with **Lice CAP**
 
 ## Notes
