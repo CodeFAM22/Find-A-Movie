@@ -56,14 +56,14 @@ Required Feature
 
 ## Wireframes
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/prototype_1.jpg" width=300 height=550>
-    <img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/prototype_2.jpg" width=300 height=550>
+    <img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/prototypes/prototype_1.jpg" width=300 height=550>
+    <img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/prototypes/prototype_2.jpg" width=300 height=550>
 </div>
 
 ### [BONUS] Digital Wireframes & Mockups
 <div style="display: flex; justify-content: center;">
-<img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/Digital_Prototype.png" width=300 height=550>
-<img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/Digital_Prototype_2.png" width=300 height=550>
+<img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/prototypes/Digital_Prototype.png" width=300 height=550>
+<img src="https://github.com/CodeFAM22/Find-A-Movie/blob/main/prototypes/Digital_Prototype_2.png" width=300 height=550>
 </div>
 ### [BONUS] Interactive Prototype
 
